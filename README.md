@@ -6,7 +6,7 @@ I love all things that contribute to society in a net positive and make for a br
 
 Skills: Python / MERN / JAVA / HTML / CSS/ BootStrap
 
-- 🔭 I’m currently working on getting a job, Pygames, and algorithms 
+- 🔭 I’m currently working on Pygames and algorithms 
 - 🌱 I’m currently learning more about Python and Algorithms 
 - 📫 How to reach me: linkedin.com/in/monte-honarchian/ 
 - ⚡ Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilie Rubbed PorterHouse Steak from SW Steakhouse in Las Vegas! :cut_of_meat: 
