@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Montè Honarchian
-#### Software Development | Algorithims
+
 ![Software Development | Algorithims](https://media-exp1.licdn.com/dms/image/D5616AQHbXUGjwt_J7A/profile-displaybackgroundimage-shrink_350_1400/0/1667014358201?e=1672272000&v=beta&t=PS2aDHwBNUQ-FW0pBqUQeZ5uYy6XMvDhK1C-kb99kCw)
+
+### Hi there 👋, my name is Montè Honarchian
+#### Software Development
 
 I love all things that contribute to society in a net positive and make for a brighter future, which I'm excited to contribute to with the skills I have gained and continue to grow.
 
