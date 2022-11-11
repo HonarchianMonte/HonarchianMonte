@@ -12,7 +12,7 @@ Skills: :snake: Python / :atom_symbol: MERN / :coffee: JAVA / :computer: HTML & 
 - 🔭 I’m currently working on Pygames and algorithms 
 - 🌱 I’m currently learning more about Python and Algorithms 
 - 📫 How to reach me: linkedin.com/in/monte-honarchian/ 
-- ⚡ Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilie Rubbed PorterHouse Steak from SW Steakhouse in Las Vegas! :cut_of_meat: 
+- ⚡ Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilli Rubbed PorterHouse Steak from SW Steakhouse in Las Vegas! :cut_of_meat: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HonarchianMonte)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/monte-honarchian//)  
