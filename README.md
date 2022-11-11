@@ -6,7 +6,7 @@
 
 I love all things that contribute to society in a net positive and make for a brighter future, which I'm excited to contribute to with the skills I have gained and continue to grow.
 
-Skills: :snake: Python / :atom_symbol: MERN / :coffee: JAVA / :computer: HTML & CSS/ :hiking_boot: BootStrap
+Skills: :snake: Python / :atom_symbol: MERN (MongoDB, Express, React, Node.js) / :coffee: JAVA / :computer: HTML & CSS/ :hiking_boot: BootStrap
 
 
 - 🔭 I’m currently working on Pygames and algorithms 
