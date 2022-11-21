@@ -12,7 +12,8 @@ I love all things that contribute to society in a net positive and make for a br
 *   🌍  I'm based in Los Angeles
 *   ✉️  You can contact me at [montehonarchian@gmail.com](mailto:montehonarchian@gmail.com)
 *   🧠  I'm learning Python for web development and Javascript for Algorithms and Data Structures
-*   ⚡  Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilli Rubbed Ribeye Steak from SW Steakhouse in Las Vegas! 🥩### Skills 
+*   ⚡  Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilli Rubbed Ribeye Steak from SW Steakhouse in Las Vegas! 🥩
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
