@@ -1,7 +1,7 @@
 
 ![Software Development | Algorithims](https://media-exp1.licdn.com/dms/image/D5616AQHbXUGjwt_J7A/profile-displaybackgroundimage-shrink_350_1400/0/1667014358201?e=1672272000&v=beta&t=PS2aDHwBNUQ-FW0pBqUQeZ5uYy6XMvDhK1C-kb99kCw)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Montè Honarchian
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Montè Honarchian
 ========================================================================================================================================
 
 Software Developer
