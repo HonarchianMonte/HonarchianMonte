@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Montè Honarchian
 ========================================================================================================================================
 
-Software Development
+Software Developer
 --------------------
 
 I love all things that contribute to society in a net positive and make for a brighter future, which I'm excited to contribute to with the skills I have gained and continue to grow.
