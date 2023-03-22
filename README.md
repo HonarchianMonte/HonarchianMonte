@@ -4,14 +4,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Montè Honarchian
 ========================================================================================================================================
 
-Software Developer
+Frontend Software Developer
 --------------------
 
 I love all things that contribute to society in a net positive and make for a brighter future, which I'm excited to contribute to with the skills I have gained and continue to grow.
 
 *   🌍  I'm based in Los Angeles
 *   ✉️  You can contact me at [montehonarchian@gmail.com](mailto:montehonarchian@gmail.com)
-*   🧠  I'm learning Python for web development and Javascript for Algorithms and Data Structures
+*   🧠  I'm learning React for web development and Javascript for Algorithms and Data Structures
 *   ⚡  Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilli Rubbed Ribeye Steak from SW Steakhouse in Las Vegas! 🥩
 ### Skills 
 <p align="left">
