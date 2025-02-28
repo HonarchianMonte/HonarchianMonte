@@ -8,7 +8,7 @@ I love all things that contribute to society in a net positive and make for a br
 
 *   🌍  I'm based in Los Angeles
 *   ✉️  You can contact me at [montehonarchian@gmail.com](mailto:montehonarchian@gmail.com)
-*   🧠  I'm a Computer Science Bachelors Graduate from Western Governors University.
+*   🧠  I'm a recent Computer Science B.S. grad from Western Governors University.
 *   ⚡  Fun fact: I have a personal steak eating record. Current PR: 42oz, Double Cut Chilli Rubbed Ribeye Steak from SW Steakhouse in Las Vegas! 🥩
 ### Skills 
 <p align="left">
