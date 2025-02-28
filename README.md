@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 --------------------
 
-I love all things that contribute to society in a net positive and make for a brighter future, which I'm excited to contribute to with the skills I have gained and continue to grow.
+I am deeply passionate about initiatives that create a net positive impact on society and pave the way for a brighter future.
 
 *   🌍  I'm based in Los Angeles
 *   ✉️  You can contact me at [montehonarchian@gmail.com](mailto:montehonarchian@gmail.com)
